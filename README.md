@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi! My name is Lyudmila, and I am a beginner Python developer and Frontend developer in HTML and CSS. I also have knowledge in the field of visual arts.
+🔭 I'm currently working on a website.
+🌱 I’m currently learning HTML, CSS  and Python.
+👯 I’m looking to collaborate on games.
+🤔 I am looking for help in finding a job in IT.
+📫 How to reach me: Telegram: @EnotJohn
+😄 Pronouns: She/her.
+⚡ Fun fact: I like listening to music
 <!--
 **Liudmila-Shalamova/Liudmila-Shalamova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
