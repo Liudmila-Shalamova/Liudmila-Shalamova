@@ -5,7 +5,7 @@
 🤔 I am looking for help in finding a job in IT.
 📫 How to reach me: Telegram: @EnotJohn
 😄 Pronouns: She/her.
-⚡ Fun fact: I like listening to music
+⚡ Fun fact: I am responsible, friendly, stress-resistant, and goal-oriented.
 <!--
 **Liudmila-Shalamova/Liudmila-Shalamova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
