@@ -1,0 +1,76 @@
+body {  font-family: Arial; }
+
+/* заголовок и картинка */
+header {text-align: center;}
+.picture img {
+    width: 67%;
+    border-radius: 20px;
+}
+h1 {
+    font-family: verdana;
+    color:rgb(255, 94, 121);
+    font-size: 32pt;
+}
+.bar-title { 
+    font-variant-caps: small-caps;
+    font-size: 60pt;
+}
+
+
+/* Навигация */
+nav {
+    background-color: pink;
+    float: left;
+    width: 200px;
+    margin: 10px 0px 10px 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+nav div {
+    font-size: 24pt;
+    margin: 10px 0px;
+}
+main {margin-left: 300px;}
+
+
+/* списки блюд и напитков */
+p {font-size: 14pt; }
+ul {
+    font-size: 14pt;
+    list-style-type: square;
+}
+
+
+/* размер текста "Ждём вас!" */
+p.greeting { font-size: 24pt;}
+
+/* стиль текста горячих блюд */
+.cur{font-style: italic;}
+/* ссылка на автора иконок */
+.icon{color:palevioletred;}
+
+
+/* отступы и размер текста для уточнения */
+.advertising {
+    margin-left: 30pt;
+    font-size: 12pt;
+    
+}
+/* отступы снизу сверху */
+.bottom {
+    margin-bottom: 2pt;
+    margin-top: 2pt;
+}
+.top {
+    margin-bottom: 2pt;
+    margin-top: 2pt;
+}
+/* стиль и размер цифр */
+.txt { 
+    font-variant-numeric: oldstyle-nums;
+    font-size: larger;
+}
+
+
+/* адресс */
+footer {text-align: right;}
